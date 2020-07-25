@@ -60,7 +60,7 @@ coverage.xml
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
-
+.idea
 # Flask stuff:
 instance/
 .webassets-cache
@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/.gitignore
+.idea/PipelineViewerConfig.xml
+.idea/find_job.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+src/manage.py
+src/scrap_service/__init__.py
+src/scrap_service/asgi.py
+src/scrap_service/settings.py
+src/scrap_service/urls.py
+src/scrap_service/wsgi.py
